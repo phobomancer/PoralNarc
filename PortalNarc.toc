@@ -1,0 +1,7 @@
+## Interface: 58866
+## Title: PortalNarc
+## Notes: PortalNarc announces when a portal is cast in a pvp battleground
+## Version: 0.1
+## SavedVariables:
+## Author: Phobowarrior
+PortalNarc.lua
